@@ -1,3 +1,2 @@
-weight = input('請問體重:')
-hight=input('請問身高：')
-print(weight,hight)
+name = input('請輸入名字: ')
+print('嗨', name)
